@@ -21,7 +21,8 @@ This project is a Power BI dashboard web application built using React and TypeS
 
 ## Current Flaws and Problems
 
-**Problem:** The AccessToken expires after an hour.
+**Problem:** The AccessToken expires after an hour. (.env is provided)
+
 
 **Current Issue:** Still figuring out how to automate the renewal of the tokens. Although Microsoft provides documentation, restrictions due to school account admin privileges and consent are resulting in forbidden errors, hindering progress.
 
